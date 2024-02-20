@@ -1,0 +1,14 @@
+.idea
+.settings
+.target
+.classpath
+.project
+*.iml
+/.idea/gradle.xml
+/target/
+/files/
+/files/temp/
+/unzipped/
+/results/
+*.zip
+log*
